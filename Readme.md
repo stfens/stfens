@@ -40,6 +40,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Postgree](https://img.shields.io/badge/-PostGreSQL-333333?style=flat&logo=postgresql)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 
 <!--**Utilidades**
 
@@ -56,6 +57,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=007ACC)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
+
 
 <br/>
 
