@@ -18,14 +18,6 @@
         alt="ilustração do status do github"
       />
     </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=stfens&theme=dark&hide_border=false"
-        alt="ilustração do status do github"
-      />
-    </td>
   </tr>
 </table>
 
